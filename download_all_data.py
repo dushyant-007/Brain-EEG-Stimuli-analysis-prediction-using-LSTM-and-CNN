@@ -17,7 +17,7 @@ Data/MindBigDataVisualMnist2021-Muse2v0.16Cut2.csv
 3. You are good to start the work on the files. 
 '''
 
-!wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=19UcPRIWuBisoh2Od0zokkonsJcc5tWos' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=FILEID" -O Data/'emotions.csv' && rm -rf /tmp/cookies.txt
+!wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=19UcPRIWuBisoh2Od0zokkonsJcc5tWos' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=19UcPRIWuBisoh2Od0zokkonsJcc5tWos" -O Data/'emotions.csv' && rm -rf /tmp/cookies.txt
 
-!wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1OTJ9He31XIYaHjPF1EO7cCNVmxTGG5TD' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=FILEID" -O Data/'MindBigDataVisualMnist2021-Muse2v0.16Cut2.csv' && rm -rf /tmp/cookies.txt
+!wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1OTJ9He31XIYaHjPF1EO7cCNVmxTGG5TD' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1OTJ9He31XIYaHjPF1EO7cCNVmxTGG5TD" -O Data/'MindBigDataVisualMnist2021-Muse2v0.16Cut2.csv' && rm -rf /tmp/cookies.txt
 

@@ -1,4 +1,4 @@
-Quick work - 
+Quick launch - 
 
 1. Clone the repo 
 

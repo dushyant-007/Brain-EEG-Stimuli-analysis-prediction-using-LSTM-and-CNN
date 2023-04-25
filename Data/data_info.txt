@@ -1,0 +1,4 @@
+There are two files here. 
+
+1. emotions.csv - the EEG data related to the movie clips dataset. 
+2. MindBigDataVisualMnist2021-Muse2v0.16Cut2.csv - The EEG data related to the MNIST digit dataset. 

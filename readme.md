@@ -1,3 +1,4 @@
+
 Quick launch - 
 
 1. Clone the repo 
@@ -13,5 +14,9 @@ read the attached paper for more info.
 
 There are two datafiles here. 
 
-1. emotions.csv - the EEG data related to the movie clips dataset. source is kaggle.com
-2. MindBigDataVisualMnist2021-Muse2v0.16Cut2.csv - The EEG data related to the MNIST digit dataset. source is MingBigData.com
+1. emotions.csv - the EEG data related to the movie clips dataset. https://www.kaggle.com/datasets.
+2. MindBigDataVisualMnist2021-Muse2v0.16Cut2.csv - The EEG data related to the MNIST digit dataset. source is http://www.mindbigdata.com/.
+
+
+
+The final presentation is attached in the repo but to access a ppt version of it please go to - https://docs.google.com/presentation/d/1atCjsW0YtNI8xoEnHfhWBKF2rmtkabZB8yUvNs7VFPc/edit#slide=id.p
